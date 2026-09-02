@@ -57,3 +57,8 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+.card-deck {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
